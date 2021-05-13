@@ -1,0 +1,32 @@
+.main__house_orange {
+  background: orange;
+}
+
+.orange__door {
+  width: 63px;
+  height: 94px;
+  background: orange;
+  position: relative;
+  left: 101px;
+}
+
+.orange__window{
+  width: 62px;
+  height: 66px;
+  background: orange;
+  position: relative;
+}
+.orange__window:nth-child(1){
+  top: 43px;
+  left: 23px;
+}
+.orange__window:nth-child(2){
+  top: 43px;
+  width: 82px;
+  left: -14px;
+  height: 108px;
+}
+.orange__window:nth-child(3){
+  top: 77px;
+  left: 23px;
+}
