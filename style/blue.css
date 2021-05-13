@@ -7,3 +7,9 @@
 .blue__windows{
     position: relative;
 }
+.blue__window{
+    position: absolute;
+    width: 46px;
+    height: 47px;
+    background: #84CEF9;
+}
