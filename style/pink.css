@@ -4,30 +4,50 @@
     background: #E7C1F9;
 }
 
+.pink__windows{
+    display: grid;
+    grid-template: 1fr 1fr / 1fr 1fr 1fr;
+}
+
 .pink__window:nth-child(1){
-    
+    margin-top: 44px;
+    margin-left: 30px;
 }
 
 .pink__window:nth-child(2){
-    
+    margin-top: 44px;
+    margin-left:  14px;
 }
 
 .pink__window:nth-child(3){
-    
+    margin-top: 44px;
+    margin-left:  -1px;
 }
 
 .pink__window:nth-child(4){
-    
+    margin-top: 26px;
+    margin-left:  30px;
 }
 
 .pink__window:nth-child(5){
-    
+    margin-top: 26px;
+    margin-left:  15px;
 }
 
 .pink__window:nth-child(6){
-    
+    margin-top: 26px;
+    margin-left:  -1px;
 }
 
 .main__house_pink{
     background: #E7C1F9;
+}
+
+.pink__door{
+    grid-row-start: 4;
+    height: 127px;
+    width: 55px;
+    background: #E7C1F9;
+    margin-left: 112px;
+
 }
