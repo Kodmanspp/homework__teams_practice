@@ -1,0 +1,38 @@
+.green__window{
+    width: 59px;
+    height: 65px;
+    background-color: #84F9C1;
+    
+}
+.green__window:nth-child(1){
+    margin-top: 29px;
+    margin-left: 25px;
+}
+.green__window:nth-child(2){
+    margin-top: 29px;
+    margin-left: 18px;
+}
+.green__window:nth-child(3){
+    margin-top: 17px;
+    margin-left: 25px;
+}
+.green__window:nth-child(4){
+    margin-top: 17px;
+    margin-left: 18px;
+}
+.green__window:nth-child(5){
+    margin-top: 3px;
+    margin-left: 25px;
+}
+.green__door{
+    width: 59px;
+    height: 98px;
+    background-color: #84F9C1;
+    grid-row-start: 2;
+    margin-top: auto;
+    margin-left: 94px;
+}
+.main__house_green{
+    background-color: #84F9C1;
+}
+
