@@ -5,7 +5,7 @@
 }
 
 .pink__window:nth-child(1){
-    
+
 }
 
 .pink__window:nth-child(2){
@@ -26,4 +26,8 @@
 
 .pink__window:nth-child(6){
     
+}
+
+.main__house_pink{
+    background: #E7C1F9;
 }
